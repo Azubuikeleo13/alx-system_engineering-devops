@@ -1,0 +1,2 @@
+#!/bin/bash
+ls */ -d -i -F -R .* -ma
