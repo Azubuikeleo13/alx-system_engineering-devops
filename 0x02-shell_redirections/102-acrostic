@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -c 1 | paste -s -d ''
+tail -c 1 | paste -s -d ' '
